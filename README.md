@@ -12,6 +12,9 @@ Udacity
 Textbook
 - http://www.cs.unibo.it/~babaoglu/courses/security/resources/documents/Computer_Security_Principles_and_Practice_(3rd_Edition).pdf
 
+Notes
+- https://github.com/m4ttsch/omscs-notes-notes
+
 Project 2
 - https://s3.amazonaws.com/content.udacity-data.com/courses/gt-cs6035/transciptsWScreenShots/P2_L1_Malicious_Code.pdf
 
